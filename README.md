@@ -25,7 +25,8 @@ Eventually visit https://sqlite3.online/ and insert students db file.
 
 Usage:
 
-    After installing and setting up the project, run the database_manip.py to initialize and manipulate the database.
+    After installing and setting up the project, run the database_manip.py to initialize 
+    and manipulate the database.
     The script performs the following operations:
         Creates a table named python_programming with fields for id, name, and grade.
         Inserts a list of students into the table.
