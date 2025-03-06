@@ -1,5 +1,5 @@
 SQLite Student Database Management
-(database_manip.py)
+(document_manip.py)
 
 Description:
 
